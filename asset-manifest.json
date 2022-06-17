@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/fga-react-project-todo/static/js/main.2e4a6d87.chunk.js",
+    "main.js.map": "/fga-react-project-todo/static/js/main.2e4a6d87.chunk.js.map",
+    "runtime-main.js": "/fga-react-project-todo/static/js/runtime-main.5d3a9a30.js",
+    "runtime-main.js.map": "/fga-react-project-todo/static/js/runtime-main.5d3a9a30.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/fga-react-project-todo/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c964e329.chunk.js": "/fga-react-project-todo/static/js/2.c964e329.chunk.js",
+    "static/js/2.c964e329.chunk.js.map": "/fga-react-project-todo/static/js/2.c964e329.chunk.js.map",
+    "index.html": "/fga-react-project-todo/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/fga-react-project-todo/static/css/2.0a9ec390.chunk.css.map",
+    "static/js/2.c964e329.chunk.js.LICENSE.txt": "/fga-react-project-todo/static/js/2.c964e329.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d3a9a30.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c964e329.chunk.js",
+    "static/js/main.2e4a6d87.chunk.js"
+  ]
+}
